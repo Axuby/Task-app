@@ -1,0 +1,13 @@
+// $brand-color: blue;
+// * {
+//     color: $brand-color;
+// }
+@import './base/settings';
+@import './base/base';
+@import './components/header';
+@import './components/button';
+@import './components/addOptions';
+@import './components/container.scss';
+@import './components/modal';
+@import './components/widget';
+@import './components/option.scss';
